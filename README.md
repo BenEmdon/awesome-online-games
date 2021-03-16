@@ -11,5 +11,6 @@ A repo listing some awesome online games to play with friends/colleagues while w
 
 ## Online game sites
 * BGA - [Board Game Arena](https://boardgamearena.com)
+* [Tabletopia](https://tabletopia.com)
 
 Know an awesome online game which should go on this list? Make add it by opening a PR!
